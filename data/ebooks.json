@@ -1,0 +1,17 @@
+{
+  "ebooks": [
+    {
+      "id": "ebook_1",
+      "name": "Exemple d'Ebook",
+      "image": "https://via.placeholder.com/300x450?text=Ebook",
+      "author": "Nom de l'auteur",
+      "description": "Description de l'ebook",
+      "downloadUrl": "https://example.com/download.pdf",
+      "format": "PDF",
+      "pages": 350,
+      "language": "Français",
+      "year": 2024,
+      "category": "Fiction"
+    }
+  ]
+}
