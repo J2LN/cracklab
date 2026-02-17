@@ -1,17 +1,17 @@
 {
   "ebooks": [
     {
-      "id": "ebook_1",
-      "name": "Exemple d'Ebook",
-      "image": "https://via.placeholder.com/300x450?text=Ebook",
-      "author": "Nom de l'auteur",
-      "description": "Description de l'ebook",
-      "downloadUrl": "https://example.com/download.pdf",
+      "id": "l-homme-invisible",
+      "name": "L'Homme invisible",
+      "image": "https://ia601808.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/wells_l_homme_invisible/wells_l_homme_invisible_jp2.zip&file=wells_l_homme_invisible_jp2/wells_l_homme_invisible_0000.jp2&id=wells_l_homme_invisible&scale=4&rotate=0",
+      "author": "H. G. Wells",
+      "description": "C'est en hiver que l'étranger s'est installé à l'auberge du village d'Iping. Ses bandages, qui lui enveloppent entièrement la tête, sauf le nez, d'un rouge vif, lui donnent un aspect étrange, assez terrifiant, et les langues vont bon train.\nOn l'aurait peut-être laissé en paix s'il n'avait pas retardé le paiement de sa note et s'il n'y avait pas eu un vol mystérieux au presbytère. Mandat est donné de l'arrêter, mais comment se saisir d'un personnage qui disparaît à mesure qu'il se dépouille de ses vêtements? Quant à l'étranger, obligé d'être nu pour échapper aux poursuites, il souffre cruellement du froid et de la faim.\nAinsi débute l'aventure du savant qui a découvert la formule de l'invisibilité, un des romans les plus célèbres de Herbert George Wells et, par son invention et son humour, un des chefs d’œuvre de la littérature fantastique.",
+      "downloadUrl": "https://archive.org/download/wells_l_homme_invisible/wells_l_homme_invisible.pdf",
       "format": "PDF",
-      "pages": 350,
+      "pages": 227,
       "language": "Français",
-      "year": 2024,
-      "category": "Fiction"
+      "year": 1897,
+      "category": ["science-fiction", "humour", "horreur", "science"]
     }
   ]
 }
