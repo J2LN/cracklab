@@ -134,28 +134,28 @@
     "lastUpdated": "04/01/2026",
     "seasons": {
       "1": {
-        "data-clictune": "https://www.clictune.com/mnkQ"
+        "clictune": "https://www.clictune.com/mnkQ"
     },
     "2": {
-      "data-clictune": "https://www.clictune.com/mnkR"
+      "clictune": "https://www.clictune.com/mnkR"
     },
      "3": {
-      "data-clictune": "https://www.clictune.com/mnkS"
+      "clictune": "https://www.clictune.com/mnkS"
      },
      "4": {
-      "data-clictune": "https://www.clictune.com/mnkT"
+      "clictune": "https://www.clictune.com/mnkT"
     },
     "5": {
-      "data-clictune": "https://www.clictune.com/mnkU"
+      "clictune": "https://www.clictune.com/mnkU"
     },
     "6": {
-      "data-clictune": "https://www.clictune.com/mnkV"
+      "clictune": "https://www.clictune.com/mnkV"
     },
     "7": {
-      "data-clictune": "https://www.clictune.com/mnkW"
+      "clictune": "https://www.clictune.com/mnkW"
     },
     "8": {
-      "data-clictune": "https://www.clictune.com/mnkX"
+      "clictune": "https://www.clictune.com/mnkX"
     }
     }
   },
