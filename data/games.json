@@ -9,7 +9,29 @@
       "size": "48.5 GB",
       "version": "v0.38.2.0 | Early Access",
       "tags": ["Simulation", "Driving", "Physics", "Realistic"],
-      "releaseDate": "29 May 2015"
+      "releaseDate": "29 Mai 2015"
+    },
+    {
+      "id": "2815070",
+      "name": "RIDE 6",
+      "steamId": "2815070",
+      "description": "Vivez le frisson de l'asphalte et du tout-terrain avec RIDE 6 : affirmez votre identité en rejoignant le Ride Fest. Pilotez plus de 250 motos dans différentes catégories et défiez de réelles légendes de la discipline pour prouver votre supériorité.",
+      "clictune": "https://www.clictune.com/mnnO",
+      "size": "52.7 GB",
+      "version": "Build 21617499",
+      "tags": ["Racing", "Simulation", "Sports"],
+      "releaseDate": "12 février 2026"
+    },
+    {
+      "id": "1721470",
+      "name": "Poppy Playtime",
+      "steamId": "1721470",
+      "description": "Essayez de rester en vie dans ce jeu d'aventure, d'horreur et de puzzles. Tentez de survivre aux jouets vengeurs de l'usine de jouets désaffectée. Utilisez votre GrabPack pour pirater les circuits électriques ou attraper des choses. Explorez la mystérieuse usine... sans vous faire prendre.",
+      "clictune": "https://www.clictune.com/mnnP",
+      "size": "68.1 GB",
+      "version": "Build 21905565 + All 5 Chapters",
+      "tags": ["Action", "Adventure", "Indie"],
+      "releaseDate": "12 octobre 2021"
     }
   ]
 }
