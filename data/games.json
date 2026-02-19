@@ -23,6 +23,30 @@
       "version": "Build 21905565 + All 5 Chapters",
       "tags": ["Action", "Adventure", "Indie"],
       "releaseDate": "12 octobre 2021"
+    },
+    {
+      "id": "391540",
+      "name": "Undertale",
+      "steamId": "391540",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg?t=1757349115",
+      "description": "Bienvenue dans UNDERTALE. Dans ce RPG, vous incarnez un humain qui tombe dans un monde souterrain peuplé de monstres. Vous devez maintenant trouver la sortie… ou rester prisonnier à jamais.",
+      "clictune": "https://www.clictune.com/mntw",
+      "size": "166 MB",
+      "version": "v1.08c | Full Version",
+      "tags": ["Indie", "RPG"],
+      "releaseDate": "15 septembre 2015"
+    },
+    {
+      "id": "219150",
+      "name": "Hotline Miami",
+      "steamId": "219150",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219150/header.jpg?t=1686261983",
+      "description": "Hotline Miami est un jeu d'action survolté, débordant de brutalité brute, de fusillades intenses et de combats rapprochés impitoyables. Dans un Miami alternatif de 1989, vous incarnez un mystérieux anti-héros lancé dans une tuerie contre la pègre, guidé par des voix sur votre répondeur. Rapidement, vous vous demanderez ce qui se passe et pourquoi vous êtes enclin à de tels actes de violence. Faites preuve d'ingéniosité pour vous sortir de situations apparemment impossibles, constamment en infériorité numérique face à des ennemis redoutables. L'action est implacable et chaque balle est mortelle : chaque mouvement doit être rapide et décisif si vous voulez survivre et percer à jour les forces obscures qui alimentent ce bain de sang. Le style visuel unique de Hotline Miami, sa bande-son entraînante et son enchaînement d'événements surréalistes vous amèneront à vous interroger sur votre propre soif de sang, tout en vous poussant dans vos retranchements face à un défi d'une brutalité sans merci.",
+      "clictune": "https://www.clictune.com/mntx",
+      "size": "232 MB",
+      "version": "gog-8 (a) (46452) | Updated Version",
+      "tags": ["Action", "RPG"],
+      "releaseDate": "23 octobre 2012"
     }
   ]
 }
