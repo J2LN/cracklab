@@ -220,13 +220,25 @@
       "id": "45613",
       "name": "Fallout",
       "steamId": "45613",
-      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/38400/header.jpg",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/38400/header.jpg?t=1744379567",
       "description": "Vous venez de découvrir le jeu de rôle post-apocalyptique culte qui a redonné vie au genre CRPG. Le système SPECIAL de Fallout offre une grande variété de personnages , des choix importants et une progression qui vous donne un contrôle total . Explorez les ruines dévastées d'une civilisation de l'âge d'or. Parlez, faufilez-vous ou combattez pour vous frayer un chemin à travers des mutants, des gangsters et des adversaires robotiques. Faites les bons choix, sinon vous pourriez devenir un autre héros déchu dans les terres désolées.",
       "clictune": "https://www.clictune.com/mnBx",
       "size": "553 MB",
       "version": "Build 300289 | Full Version",
       "tags": ["RPG"],
       "releaseDate": "30 septembre 1997"
+    },
+    {
+      "id": "377160",
+      "name": "Fallout 4",
+      "steamId": "377160",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1764687456",
+      "description": "Fallout 4 a été créé par Bethesda Game Studios, les créateurs primés de Starfield et The Elder Scrolls V: Skyrim. Véritable référence du jeu de rôle en monde ouvert, il a reçu plus de 200 distinctions, dont celles de jeu de l'année par DICE et BAFTA. Vous êtes l'unique survivant de l'Abri 111, qui refait surface dans un monde ravagé par la guerre nucléaire. Chaque instant est une lutte pour la survie, chaque choix influence l'avenir. Reconstruisez, transformez et reprenez possession des Terres désolées à votre manière. Bienvenue chez vous.",
+      "clictune": "https://www.clictune.com/mnBV",
+      "size": "32.3 GB",
+      "version": "v1.11.137.0.0 | Full Version",
+      "tags": ["RPG"],
+      "releaseDate": "10 novembre 2015"
     }
   ]
 }
