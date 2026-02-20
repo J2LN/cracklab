@@ -167,6 +167,66 @@
       "version": "v1.5.20.1033 | Full Version + All DLCs",
       "tags": ["Indie", "Action", "Strategy", "Adventure"],
       "releaseDate": "11 août 2022"
+    },
+    {
+      "id": "346110",
+      "name": "ARK: Survival Evolved",
+      "steamId": "346110",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg?t=1765677889",
+      "description": "En tant qu'homme ou femme échoué nu, en train de gelé et de mourir de faim sur une île mystérieuse, vous devez chasser, récolter, fabriquer des objets, faire pousser des plantes et construire des abris pour survivre. Utilisez vos compétences et votre ruse pour tuer, apprivoiser, faire accoupler et chevaucher des dinosaures et des créatures primitives vivant sur l'Arche, en faisant équipe avec des centaines de joueurs pour survivre, dominer et ... s'échapper !",
+      "clictune": "https://www.clictune.com/mnBt",
+      "size": "122 GB",
+      "version": "v360.1 + 19 DLCs/Bonuses",
+      "tags": ["Indie", "Action", "Massively Multiplayer", "RPG", "Adventure"],
+      "releaseDate": "29 août 2017"
+    },
+    {
+      "id": "264710",
+      "name": "Subnautica",
+      "steamId": "264710",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1751944840",
+      "description": "Après un atterrissage catastrophique sur un monde extraterrestre océanique, la seule voie à prendre est vers le bas. Les océans de Subnautica vont de récifs de corail ensoleillés et peu profonds à des fosses abyssales dangereuses. Gérez votre niveau d'oxygène tout en explorant des forêts d’algue, des plateaux, des récifs, et des systèmes de grottes sinueux. L'eau est pleine de vie: une partie utile, mais une grande partie nocive.",
+      "clictune": "https://www.clictune.com/mnBu",
+      "size": "3.6 GB",
+      "version": "v82304 | Full Version",
+      "tags": ["Indie", "Adventure"],
+      "releaseDate": "24 janvier 2018"
+    },
+    {
+      "id": "427520",
+      "name": "Factorio",
+      "steamId": "427520",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg?t=1763986204",
+      "description": "Factorio a pour but la création d'une usine complètement automatisée, produisant des éléments de plus en plus complexes, dans un monde en 2D. Utiliser votre imagination pour concevoir votre usine, combiner de simples éléments en ingénieuses structures, tout en vous protégeant des aliens !",
+      "clictune": "https://www.clictune.com/mnBv",
+      "size": "8.9 GB",
+      "version": "v2.0.73 | Full Version + Factorio: Space Age",
+      "tags": ["Indie", "Casual", "Simulation", "Strategy"],
+      "releaseDate": "14 août 2020"
+    },
+    {
+      "id": "2660460",
+      "name": "Aviassembly",
+      "steamId": "2660460",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2660460/header.jpg?t=1744379567",
+      "description": "Construisez et pilotez votre propre avion ! Accomplissez des missions pour gagner de l'argent, améliorer votre avion et découvrir de nouveaux lieux dans un monde ouvert.",
+      "clictune": "https://www.clictune.com/mnBw",
+      "size": "146 MB",
+      "version": "Build 18239332 | Early Access",
+      "tags": ["Early Access", "Simulation"],
+      "releaseDate": "11 avril 2025"
+    },
+    {
+      "id": "45613",
+      "name": "Fallout",
+      "steamId": "45613",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/38400/header.jpg",
+      "description": "Vous venez de découvrir le jeu de rôle post-apocalyptique culte qui a redonné vie au genre CRPG. Le système SPECIAL de Fallout offre une grande variété de personnages , des choix importants et une progression qui vous donne un contrôle total . Explorez les ruines dévastées d'une civilisation de l'âge d'or. Parlez, faufilez-vous ou combattez pour vous frayer un chemin à travers des mutants, des gangsters et des adversaires robotiques. Faites les bons choix, sinon vous pourriez devenir un autre héros déchu dans les terres désolées.",
+      "clictune": "https://www.clictune.com/mnBx",
+      "size": "553 MB",
+      "version": "Build 300289 | Full Version",
+      "tags": ["RPG"],
+      "releaseDate": "30 septembre 1997"
     }
   ]
 }
