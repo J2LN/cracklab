@@ -61,5 +61,18 @@
       "clictune": "https://www.clictune.com/mnlK"
     }
   }
+  },
+  {
+    "slug": "106379-fallout",
+    "tmdbId": 106379,
+    "lastUpdated": "20/02/2026",
+    "seasons": {
+      "1": {
+      "clictune": "https://www.clictune.com/mnCf"
+    },
+    "2": {
+      "clictune": "https://www.clictune.com/mnCg"
+    }
+  }
   }
 ]}
