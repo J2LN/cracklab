@@ -155,6 +155,18 @@
       "version": "v1.1 – Full Version (Latest) + DLC HalloweenEdition",
       "tags": ["Indie", "Action", "Strategy"],
       "releaseDate": "23 juillet 2015"
+    },
+    {
+      "id": "1313140",
+      "name": "Cult of the Lamb",
+      "steamId": "1313140",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg?t=1769836674",
+      "description": "Cult of the Lamb propulse les joueurs dans la peau d'un agneau possédé qui a échappé à l'abattage grâce à l'intervention d'un inconnu étrange, et qui n'a pas d'autre choix que de payer sa dette en établissant un culte d'adorateurs en son nom. Montez votre propre culte dans un pays de faux prophètes, parcourez des régions étonnantes et mystérieuses pour faire croître une communauté d'adeptes fidèles dans les bois et répandez la bonne parole pour devenir le seul culte véritable.",
+      "clictune": "https://www.clictune.com/mnB7",
+      "size": "4.9 GB",
+      "version": "v1.5.20.1033 | Full Version + All DLCs",
+      "tags": ["Indie", "Action", "Strategy", "Adventure"],
+      "releaseDate": "11 août 2022"
     }
   ]
 }
