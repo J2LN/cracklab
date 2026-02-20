@@ -83,6 +83,78 @@
       "version": "v1.6.15 | Full Version",
       "tags": ["Simulation", "RPG", "Indie"],
       "releaseDate": "26 février 2016"
+    },
+    {
+      "id": "367520",
+      "name": "Hollow Knight",
+      "steamId": "367520",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1770338567",
+      "description": "Sous la ville fantôme de Dirtmouth, sommeille un ancien royaume en ruine. Nombreux sont ceux qui sont attirés par cet endroit en quête de richesses, de gloire ou pour élucider les mystères que recèle ce royaume. Hollow Knight est un jeu classique d’action et d’aventure en 2D, qui prend place dans un vaste monde souterrain interconnecté. Explorez un labyrinthe de cavernes, de villes ancestrales et de terres désolées dangereuses. Il vous faudra combattre des créatures corrompues, vous lier d’amitié avec des insectes étranges et résoudre les mystères dissimulés au coeur du royaume.",
+      "clictune": "https://www.clictune.com/mnuu",
+      "size": "1.1 GB",
+      "version": "v1.5.12459 (Build 21656419) | Full Version + All DLCs",
+      "tags": ["Action", "Adventure", "Indie"],
+      "releaseDate": "24 février 2017"
+    },
+    {
+      "id": "1030300",
+      "name": "Hollow Knight: Silksong",
+      "steamId": "1030300",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1764916587",
+      "description": "Incarnez Hornet, une chasseuse redoutable et partez à la découverte d'un royaume maudit par la soie et les mélodies. Capturée et transportée sur des terres inconnues, soyez près à combattre des ennemis et à résoudre des mystères anciens au cours d'un dangereux pèlerinage pour atteindre le sommet du royaume. Hollow Knight: Silksong est la suite épique d'Hollow Knight, le jeu d’action et d’aventure primé. Aventurez-vous dans un nouveau royaume, découvrez de nouveaux pouvoirs, combattez des hordes d'insectes et de bêtes tout en révélant des secrets anciens directement liés à votre nature et à votre passé.",
+      "clictune": "https://www.clictune.com/mnuv",
+      "size": "4 GB",
+      "version": "v1.0.29315 | Full Version + OST",
+      "tags": ["Action", "Adventure", "Indie"],
+      "releaseDate": "4 septembre 2025"
+    },
+    {
+      "id": "319510",
+      "name": "Five Nights at Freddy's",
+      "steamId": "319510",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/319510/header.jpg?t=1666889251",
+      "description": "Bienvenue à votre nouvel emploi d'été chez Freddy Fazbear's Pizza, où petits et grands viennent se divertir et se régaler à volonté ! L'attraction principale, c'est bien sûr Freddy Fazbear et ses deux amis. Ce sont des robots animatroniques, programmés pour divertir le public ! Cependant, leur comportement est devenu quelque peu imprévisible la nuit, et il était bien plus économique de vous embaucher comme agent de sécurité que de faire appel à un réparateur. Depuis votre petit bureau, vous devez surveiller attentivement les caméras de sécurité. Votre consommation d'électricité est très limitée chaque nuit (restrictions budgétaires, vous savez). Cela signifie que lorsque vous n'avez plus d'électricité pour la nuit, plus de portes de sécurité ni de lumière ! Si quelque chose cloche, notamment si Freddy Fazbear ou ses amis ne sont pas à leur place, vous devez les repérer sur les écrans et vous protéger si nécessaire !",
+      "clictune": "https://www.clictune.com/mnuw",
+      "size": "268 MB",
+      "version": "v1.132 | Full Version",
+      "tags": ["Simulation", "Indie"],
+      "releaseDate": "19 août 2014"
+    },
+    {
+      "id": "332800",
+      "name": "Five Nights at Freddy's 2",
+      "steamId": "332800",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332800/header.jpg?t=1579635993",
+      "description": "Bienvenue dans la nouvelle version améliorée de Freddy Fazbear's Pizza ! Dans Five Nights at Freddy's 2, les animatroniques vieillissants sont rejoints par une nouvelle équipe de personnages. Conçus pour les enfants, dotés des dernières technologies de reconnaissance faciale et connectés aux bases de données criminelles locales, ils promettent un spectacle à la fois sûr et divertissant pour petits et grands !",
+      "clictune": "https://www.clictune.com/mnux",
+      "size": "254 MB",
+      "version": "v1.033 | Full Version",
+      "tags": ["Indie"],
+      "releaseDate": "11 novembre 2014"
+    },
+    {
+      "id": "354140",
+      "name": "Five Nights at Freddy's 3",
+      "steamId": "354140",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/354140/header.jpg?t=1579635991",
+      "description": "Trente ans après la fermeture de Freddy Fazbear's Pizza, les événements qui s'y sont déroulés ne sont plus qu'une rumeur et un souvenir d'enfance, mais les propriétaires de « Fazbear's Fright : The Horror Attraction » sont déterminés à faire revivre la légende et à rendre l'expérience aussi authentique que possible pour les visiteurs, n'hésitant pas à déployer des efforts considérables pour retrouver tout ce qui aurait pu survivre à des décennies d'abandon et de ruine.",
+      "clictune": "https://www.clictune.com/mnuy",
+      "size": "156 MB",
+      "version": "v1.032 | Full Version (Latest)",
+      "tags": ["Indie", "Action", "Simulation"],
+      "releaseDate": "3 mars 2015"
+    },
+    {
+      "id": "388090",
+      "name": "Five Nights at Freddy's 4",
+      "steamId": "388090",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/388090/header.jpg?t=1579635988",
+      "description": "Cette fois, la terreur vous a suivi jusque chez vous. Dans ce dernier chapitre de l'histoire originale de Five Nights at Freddy's, vous devez une fois de plus vous défendre contre Freddy Fazbear, Chica, Bonnie, Foxy et des créatures encore plus terrifiantes tapies dans l'ombre. Vous incarnez un enfant dont le rôle reste encore un mystère et devez survivre jusqu'à 6 heures du matin en surveillant les portes et en repoussant les créatures indésirables qui pourraient s'aventurer dans votre placard ou sur le lit derrière vous. Vous n'avez qu'une lampe torche pour vous protéger. Elle fera fuir les choses qui rôdent au fond des couloirs, mais soyez prudent et restez à l'écoute. Si une créature s'approche trop près, braquer sa lumière dans les yeux sera fatal.",
+      "clictune": "https://www.clictune.com/mnuz",
+      "size": "1.03 GB",
+      "version": "v1.1 – Full Version (Latest) + DLC HalloweenEdition",
+      "tags": ["Indie", "Action", "Strategy"],
+      "releaseDate": "23 juillet 2015"
     }
   ]
 }
