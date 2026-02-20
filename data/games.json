@@ -47,6 +47,42 @@
       "version": "gog-8 (a) (46452) | Updated Version",
       "tags": ["Action", "RPG"],
       "releaseDate": "23 octobre 2012"
+    },
+    {
+      "id": "387990",
+      "name": "Scrap Mechanic",
+      "steamId": "387990",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/387990/header.jpg?t=1727183889",
+      "description": "Plongez dans l'univers créatif de Scrap Mechanic ! Construisez des machines fantastiques, partez à l'aventure avec vos amis et défendez-vous contre des vagues de robots agricoles maléfiques dans ce jeu de survie multijoueur en monde ouvert. Grâce aux puissants outils de création de Scrap Mechanic, inventez vos propres aventures !",
+      "clictune": "https://www.clictune.com/mntE",
+      "size": "4.4 GB",
+      "version": "v0.7.3 (Build 16694362) | Early Access",
+      "tags": ["Action", "Adventure", "Indie", "Simulation"],
+      "releaseDate": "20 janvier 2016"
+    },
+    {
+      "id": "105600",
+      "name": "Terraria",
+      "steamId": "105600",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+      "description": "Creuser, survivre, explorer, construire ! Tout est possible dans ce jeu d'aventure bourré d'action. Le monde est votre toile et le sol votre peinture. Prenez vos outils, et c'est parti ! Fabriquez des armes pour lutter contre toutes sortes d'ennemis. Creusez en profondeur pour trouver des accessoires, de l'argent et plein d'autres objets qui pourront vous être utiles. Partez à la recherche de matériaux pour fabriquer tout ce qu'il vous faut pour créer votre propre monde. Construisez une maison, un fort ou pourquoi pas un château. Des gens s'installeront et vendront peut-être même leurs services pour vous aider dans votre voyage. Attention, ce n'est pas tout, d'autres défis vous attendent... Êtes-vous prêt à vous retrousser les manches ?",
+      "clictune": "https://www.clictune.com/mntF",
+      "size": "618 MB",
+      "version": "v1.4.5.5 | Full Version (Bigger & Boulder Update)",
+      "tags": ["Action", "Adventure", "Indie", "RPG"],
+      "releaseDate": "16 mai 2011"
+    },
+    {
+      "id": "413150",
+      "name": "Stardew Valley",
+      "steamId": "413150",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
+      "description": "Vous avez hérité de la vieille ferme de votre grand-père à Stardew Valley. Muni d'outils de récupération et de quelques pièces, vous vous lancez dans une nouvelle vie. Parviendrez-vous à vivre de la terre et à transformer ces champs envahis par la végétation en un foyer prospère ? Ce ne sera pas chose facile. Depuis l'arrivée de la Joja Corporation, les traditions locales ont presque disparu. Le centre communautaire, jadis le cœur vibrant de la ville, est aujourd'hui en ruines. Mais la vallée regorge de potentiel. Avec un peu de persévérance, vous pourriez bien être celui ou celle qui redonnera à Stardew Valley sa splendeur d'antan !",
+      "clictune": "https://www.clictune.com/mntG",
+      "size": "514 MB",
+      "version": "v1.6.15 | Full Version",
+      "tags": ["Simulation", "RPG", "Indie"],
+      "releaseDate": "26 février 2016"
     }
   ]
 }
