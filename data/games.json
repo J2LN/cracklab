@@ -371,6 +371,42 @@
       "version": "Build 3658995",
       "tags": ["Action", "Adventure"],
       "releaseDate": "25 February 2015"
+    },
+    {
+      "id": "504230",
+      "name": "Celeste",
+      "steamId": "504230",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg?t=1714089525",
+      "description": "Aidez Madeline à surmonter ses démons intérieurs lors de son ascension vers le sommet du Mont Celeste, dans ce jeu de plateforme ultra-précis des créateurs de TowerFall. Affrontez des centaines de défis conçus à la main, percez de sombres secrets et reconstituez le mystère de la montagne.",
+      "clictune": "https://www.clictune.com/mnDB",
+      "size": "2.3 GB",
+      "version": "v1.4.0.0 (Farewell Update) | Full Version + Celeste OST/Soundtrack + B Sides FLAC",
+      "tags": ["Action", "Adventure", "Indie"],
+      "releaseDate": "25 janvier 2018"
+    },
+    {
+      "id": "1150690",
+      "name": "OMORI",
+      "steamId": "1150690",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1150690/header.jpg?t=1671584768",
+      "description": "Explorez un monde étrange, peuplé d'amis et d'ennemis hauts en couleur. Naviguez entre le vibrant et le banal pour exhumer un passé oublié. Le moment venu, le chemin que vous aurez choisi déterminera votre destin… et peut-être aussi celui des autres.",
+      "clictune": "https://www.clictune.com/mnDC",
+      "size": "1.87 GB",
+      "version": "(Build 8879120) | Full Version",
+      "tags": ["RPG", "Adventure", "Indie"],
+      "releaseDate": "25 décembre 2020"
+    },
+    {
+      "id": "4000",
+      "name": "Garry's Mod",
+      "steamId": "4000",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1764757984",
+      "description": "Garry's Mod est un jeu de simulation physique. Il n'y a pas d'objectifs prédéfinis. Nous vous fournissons les outils et vous laissons jouer. Vous créez des objets et les soudez ensemble pour concevoir vos propres engins : voiture, fusée, catapulte ou autre chose encore sans nom, à vous de choisir. Vous pouvez jouer hors ligne ou rejoindre les milliers de joueurs qui se connectent chaque jour. Si la construction n'est pas votre fort, pas de panique ! Vous pouvez placer différents personnages dans des positions amusantes. Mais si vous voulez aller plus loin, nous avons ce qu'il vous faut.",
+      "clictune": "https://www.clictune.com/mnDD",
+      "size": "2 GB",
+      "version": "Build 17902109 (March 2025 Hotfix) | Full Version",
+      "tags": ["Simulation", "Indie"],
+      "releaseDate": "29 novembre 2006"
     }
   ]
 }
