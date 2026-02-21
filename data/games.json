@@ -407,6 +407,30 @@
       "version": "Build 17902109 (March 2025 Hotfix) | Full Version",
       "tags": ["Simulation", "Indie"],
       "releaseDate": "29 novembre 2006"
+    },
+    {
+      "id": "1426300",
+      "name": "The Binding of Isaac: Repentance",
+      "steamId": "1426300",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426300/header.jpg?t=1732645274",
+      "description": "Redécouvrez le classique moderne The Binding of Isaac comme vous ne l'avez jamais vu. Ce jeu est bien plus vaste qu'une simple suite : Repentance propulse Isaac vers de nouveaux sommets d'aventure roguelike, tandis que le courageux garçon descend dans les profondeurs pour relever son plus grand défi ! La nouvelle quête d'Isaac le mènera dans des lieux inconnus, peuplés d'ennemis et de boss terrifiants, de combinaisons d'armes inédites et d'objets jamais vus auparavant… des horreurs indicibles issues de ses rêves les plus fous et de ses pires cauchemars !",
+      "clictune": "https://www.clictune.com/mnEl",
+      "size": "1.9 GB",
+      "version": "v1.9.7.12 | Full Version",
+      "tags": ["Action", "Adventure", "RPG"],
+      "releaseDate": "31 mars 2021"
+    },
+    {
+      "id": "250900",
+      "name": "The Binding of Isaac: Rebirth",
+      "steamId": "250900",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
+      "description": "Lorsque la mère d'Isaac commence à entendre la voix de Dieu exigeant un sacrifice pour prouver sa foi, Isaac s'enfuit à la cave et se retrouve confronté à des hordes d'ennemis déments, à ses frères et sœurs disparus, à ses peurs et, finalement, à sa mère.",
+      "clictune": "https://www.clictune.com/mnEm",
+      "size": "1.9 GB",
+      "version": "v1.9.7.14 | Full Version + All DLCs",
+      "tags": ["Action", "Adventure", "RPG"],
+      "releaseDate": "4 novembre 2014"
     }
   ]
 }
