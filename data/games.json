@@ -527,6 +527,78 @@
       "version": "v1.5.9.8 | Early Access (Latest)",
       "tags": ["Indie", "Simulation", "Early Access"],
       "releaseDate": "18 février 2022"
+    },
+    {
+      "id": "1671210",
+      "name": "DELTARUNE",
+      "steamId": "1671210",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1749252480",
+      "description": "Plongez dans l'histoire parallèle d'UNDERTALE ! Combattez ou épargnez vos ennemis dans des batailles palpitantes et explorez un monde mystérieux en compagnie de personnages attachants, nouveaux et familiers.",
+      "clictune": "https://www.clictune.com/mnLc",
+      "size": "426 MB",
+      "version": "Build 18701037",
+      "tags": ["Indie", "RPG", "Free To Play"],
+      "releaseDate": "4 juin 2025"
+    },
+    {
+      "id": "433340",
+      "name": "Slime Rancher",
+      "steamId": "433340",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/433340/header.jpg?t=1758651509",
+      "description": "Slime Rancher raconte l'histoire de Beatrix LeBeau, une jeune éleveuse courageuse qui part vivre à mille années-lumière de la Terre, dans la « Lointaine, Lointaine Contrée », où elle tente de gagner sa vie en élevant des slimes.",
+      "clictune": "https://www.clictune.com/mnLe",
+      "size": "795 MB",
+      "version": "v1.4.4 | Updated Version",
+      "tags": ["Action", "Adventure", "Indie", "Simulation"],
+      "releaseDate": "1 août 2017"
+    },
+    {
+      "id": "1657630",
+      "name": "Slime Rancher 2",
+      "steamId": "1657630",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1657630/e0ebd5982e69895132d4ffdf80a1a6048ab53d25/header.jpg?t=1765374630",
+      "description": "Slime Rancher 2 est la suite du jeu original à succès, récompensé à de nombreuses reprises et apprécié par plus de 15 millions de fans à travers le monde. Poursuivez les aventures de Beatrix LeBeau qui explore l'Île Arc-en-ciel, une terre mystérieuse regorgeant de technologies anciennes, de ressources naturelles insoupçonnées et d'une multitude de nouveaux slimes à découvrir.",
+      "clictune": "https://www.clictune.com/mnLf",
+      "size": "5.4 GB",
+      "version": "v1.1.1 | Full Version",
+      "tags": ["Action", "Adventure", "Casual", "Indie", "Simulation"],
+      "releaseDate": "23 septembre 2025"
+    },
+    {
+      "id": "220200",
+      "name": "Kerbal Space Program",
+      "steamId": "220200",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220200/header.jpg?t=1738037585",
+      "description": "Dans Kerbal Space Program , prenez les rênes du programme spatial des Kerbals, une race extraterrestre. Vous disposez d'une multitude de pièces pour assembler des vaisseaux spatiaux entièrement fonctionnels, capables de voler (ou non) selon des principes aérodynamiques et orbitaux réalistes. Envoyez votre équipage Kerbal en orbite et au-delà (en veillant à leur survie) pour explorer les lunes et les planètes du système solaire de Kerbol, et construisez des bases et des stations spatiales pour étendre la portée de votre expédition.",
+      "clictune": "https://www.clictune.com/mnLg",
+      "size": "2.5 GB",
+      "version": "v1.12.5.03190 | Full version + all 2 DLCs",
+      "tags": ["Indie", "Simulation"],
+      "releaseDate": "27 avril 2015"
+    },
+    {
+      "id": "954850",
+      "name": "Kerbal Space Program 2",
+      "steamId": "954850",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/954850/header.jpg?t=1766174912",
+      "description": "Kerbal Space Program, le premier opus, est l'un des jeux les plus appréciés de tous les temps et, des années après sa sortie, son succès est plus grand que jamais. Sa suite, Kerbal Space Program 2 , a été entièrement repensée pour répondre aux exigences de l'exploration spatiale moderne et de nouvelle génération, tout en préservant les bases exceptionnelles du premier jeu. Développez un programme spatial, construisez de puissants vaisseaux et explorez l'immensité de l'espace à la découverte des mystères cosmiques.",
+      "clictune": "https://www.clictune.com/mnLh",
+      "size": "15 GB",
+      "version": "v0.2.2.0.32913 | Early Access",
+      "tags": ["Indie", "Simulation", "Early Access"],
+      "releaseDate": "24 février 2023"
+    },
+    {
+      "id": "268910",
+      "name": "Cuphead",
+      "steamId": "268910",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg?t=1709068852",
+      "description": "Cuphead est un jeu d'action classique de type run and gun, axé sur les combats de boss. Inspiré des dessins animés des années 1930, ses graphismes et sa bande-son sont minutieusement réalisés selon les techniques de l'époque : animation traditionnelle dessinée à la main, décors à l'aquarelle et enregistrements de jazz originaux.",
+      "clictune": "https://www.clictune.com/mnLi",
+      "size": "4.6 GB",
+      "version": "v1.3.4 (build 9318602) | Full Version + The Delicious Last Course",
+      "tags": ["Action", "Indie"],
+      "releaseDate": "29 septembre 2017"
     }
   ]
 }
