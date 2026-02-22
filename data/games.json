@@ -431,6 +431,90 @@
       "version": "v1.9.7.14 | Full Version + All DLCs",
       "tags": ["Action", "Adventure", "RPG"],
       "releaseDate": "4 novembre 2014"
+    },
+    {
+      "id": "3215050",
+      "name": "Surviving Mars: Relaunched",
+      "steamId": "3215050",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3215050/80132dfeee2f6463f4c71821edf426af6e8fed97/header.jpg?t=1762794022",
+      "description": "Bienvenue sur Mars ! Le jeu de construction de ville de science-fiction primé est de retour : remasterisé, enrichi et plus époustouflant que jamais. Votre mission : coloniser Mars et survivre à ce processus, de l’exploration et des infrastructures à l’accueil des colons humains et à l’établissement d’une stabilité durable. De nouveaux défis vous attendent, de nouvelles stratégies à élaborer, et le tout avec des graphismes et une jouabilité améliorés pour une nouvelle génération d’explorateurs.",
+      "clictune": "https://www.clictune.com/mnFh",
+      "size": "9.1 GB",
+      "version": "v1.0.6.387175 (Build 21904438) | Full Version",
+      "tags": ["Simulation", "Strategy"],
+      "releaseDate": "10 novembre 2025"
+    },
+    {
+      "id": "648800",
+      "name": "Raft",
+      "steamId": "648800",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+      "description": "Raft™ vous plonge, vous et vos amis, dans une aventure océanique épique ! Seuls ou ensemble, luttez pour survivre à un périlleux voyage à travers l'immensité de la mer ! Récupérez des débris, explorez les récifs et construisez votre propre maison flottante, mais méfiez-vous des requins mangeurs d'hommes !",
+      "clictune": "https://www.clictune.com/mnFi",
+      "size": "2.5 GB",
+      "version": "v1.1.07 | Full Version + Co-op",
+      "tags": ["Adventure", "Indie", "Simulation", "Early Access"],
+      "releaseDate": "20 juin 2022"
+    },
+    {
+      "id": "349040",
+      "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+      "steamId": "349040",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/349040/header.jpg?t=1703080866",
+      "description": "Le dernier opus de la célèbre série STORM vous embarque dans une aventure haute en couleur et à couper le souffle. Profitez d'un système de combat entièrement repensé et préparez-vous à vivre les affrontements les plus épiques jamais vus dans la série NARUTO SHIPPUDEN: Ultimate Ninja STORM !",
+      "clictune": "https://www.clictune.com/mnFj",
+      "size": "36.70 GB",
+      "version": "v1.09 (Deluxe Edition) | Full Version + All DLC",
+      "tags": ["Action", "Adventure"],
+      "releaseDate": "4 février 2016"
+    },
+    {
+      "id": "3405340",
+      "name": "Megabonk",
+      "steamId": "3405340",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405340/d06cb39a82a703e42541085fc61b42d80904b3f8/header.jpg?t=1760445338",
+      "description": "Megabonk est un jeu de survie roguelike où vous devez vous frayer un chemin à travers des hordes d'ennemis et de boss sur des cartes générées aléatoirement. Récupérez du butin en chemin, faites progresser votre personnage, améliorez vos armes et survivez le plus longtemps possible ! Jusqu'où irez-vous ?",
+      "clictune": "https://www.clictune.com/mnFk",
+      "size": "201 MB",
+      "version": "v1.0.69 (Build 21750826) | Full Version",
+      "tags": ["Action", "Casual", "Indie"],
+      "releaseDate": "18 septembre 2025"
+    },
+    {
+      "id": "1012880",
+      "name": "60 Seconds! Reatomized",
+      "steamId": "1012880",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1012880/header.jpg?t=1760090145",
+      "description": "Dolores, Ted, Mary Jane et Timmy reviennent affronter l'apocalypse nucléaire dans cette nouvelle édition remasterisée du jeu d'aventure atomique culte : 60 Seconds! Reatomized, avec prise en charge de la 4K, graphismes 2D et textures 3D dessinés à la main améliorés, nouveau menu interactif, interface utilisateur optimisée, une refonte technique et, bien sûr… du contenu inédit !",
+      "clictune": "https://www.clictune.com/mnFl",
+      "size": "616 MB",
+      "version": "v1.1.5.32 | Full Version",
+      "tags": ["Adventure", "Casual", "Indie", "Simulation", "Strategy"],
+      "releaseDate": "25 juillet 2019"
+    },
+    {
+      "id": "3241660",
+      "name": "R.E.P.O.",
+      "steamId": "3241660",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1765552338",
+      "description": "Un jeu d'horreur coopératif en ligne jusqu'à 6 joueurs. Trouvez des objets précieux, entièrement basés sur la physique, et manipulez-les avec précaution pour les récupérer et les extraire afin de satisfaire les désirs de votre créateur.",
+      "clictune": "https://www.clictune.com/mnFm",
+      "size": "891 MB",
+      "version": "v0.3.2 | Early Access",
+      "tags": ["Action", "Early Access"],
+      "releaseDate": "26 février 2025"
+    },
+    {
+      "id": "1593030",
+      "name": "Terra Nil",
+      "steamId": "1593030",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593030/60d7b58280ba8d126365e4d5186ae497f6c10b39/header.jpg?t=1756318967",
+      "description": "Terra Nil est un jeu de stratégie environnementale complexe où vous devez transformer une terre désolée en un écosystème florissant et équilibré. Redonnez vie à un monde mort en purifiant les sols, en nettoyant les océans, en plantant des arbres et en réintroduisant la faune sauvage, puis disparaissez sans laisser de traces.",
+      "clictune": "https://www.clictune.com/mnFn",
+      "size": "904 MB",
+      "version": "v1.1.12 | Full Version",
+      "tags": ["Casual", "Indie", "Strategy"],
+      "releaseDate": "28 mars 2023"
     }
   ]
 }
