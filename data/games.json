@@ -623,6 +623,42 @@
       "version": "v2.2081 (Build 21578706) | Full Version",
       "tags": ["Action", "Indie"],
       "releaseDate": "22 décembre 2014"
+    },
+    {
+      "id": "1222140",
+      "name": "Detroit: Become Human",
+      "steamId": "1222140",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+      "description": "Detroit: Become Human , le jeu vidéo primé de Quantic Dream , est enfin disponible sur Steam ! Avec des acteurs de renommée mondiale tels que Jesse Williams (Grey's Anatomy), Clancy Brown (Carnivale), Lance Henriksen (Aliens), Bryan Dechart (True Blood) et Valorie Curry (Twilight).",
+      "clictune": "https://www.clictune.com/mr1O",
+      "size": "53 GB",
+      "version": "v05.08.2020 | Full version",
+      "tags": ["Action", "Adventure"],
+      "releaseDate": "18 juin 2020"
+    },
+    {
+      "id": "2668510",
+      "name": "Red Dead Redemption",
+      "steamId": "2668510",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1741118459",
+      "description": "Vivez l'histoire de l'ancien hors-la-loi John Marston, lancé à la poursuite des derniers membres du tristement célèbre gang Van der Linde, dans cette première apparition sur PC du prédécesseur acclamé par la critique de Red Dead Redemption 2.",
+      "clictune": "https://www.clictune.com/mr1T",
+      "size": "8.41 GB",
+      "version": "v1.0.42.46611 | Full Version",
+      "tags": ["Action"],
+      "releaseDate": "29 octobre 2024"
+    },
+    {
+      "id": "1174180",
+      "name": "Red Dead Redemption 2",
+      "steamId": "1174180",
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+      "description": "Arthur Morgan et la bande de Van der Linde sont des hors-la-loi en fuite. Traqués par des agents fédéraux et des chasseurs de primes, ils doivent voler, piller et se battre pour survivre dans les contrées sauvages du Midwest.",
+      "clictune": "https://www.clictune.com/mr1U",
+      "size": "116 GB",
+      "version": "Build 1491.50 | Ultimate Edition + UE Unlocker",
+      "tags": ["Action", "Adventure"],
+      "releaseDate": "5 décembre 2019"
     }
   ]
 }
