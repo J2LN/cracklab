@@ -1,5 +1,5 @@
-{
-  "movies": [{
+[
+  {
     "slug": "967941-wicked-partie-2",
     "tmdbId": 967941,
     "lastUpdated": "01/01/2026",
@@ -160,5 +160,5 @@
     "tmdbId": 1215532,
     "lastUpdated": "16/02/2026",
     "clictune": "https://www.clictune.com/mnlr"
-  }]
-}
+  }
+]
